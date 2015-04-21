@@ -1,0 +1,32 @@
+# external library #
+####################
+./external/*
+
+# Packages #
+############
+*.zip
+*.iso
+*.tar
+*.gz
+
+# Logs #
+########
+*.log
+*.txt
+
+# temp files #
+##############
+*.m~
+
+# local files #
+###############
+./src_matlab/archive/*
+./src_matlab/cache/*
+./src_matlab/test/*
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Stroe?
+.Trashes
