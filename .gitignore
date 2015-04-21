@@ -1,6 +1,6 @@
 # external library #
 ####################
-./external/*
+/external
 
 # Packages #
 ############
@@ -20,9 +20,9 @@
 
 # local files #
 ###############
-./src_matlab/archive/*
-./src_matlab/cache/*
-./src_matlab/test/*
+src_matlab/archive
+src_matlab/cache
+src_matlab/test
 
 
 # OS generated files #
